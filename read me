@@ -1,0 +1,11 @@
+This project belongs to Advanced programming language class.
+
+Using Scheme as my base language and design my own amazing program language!
+
+
+
+
+1)Design the grammar for my own language using LL(1) rules.
+2)Scan and parse string to syntax and interpreter syntax using scheme function.
+3)Using my language you can use all kinds of operator, equal statement, if statement, for statement, etc.
+4)Adding process implement, user can use thread and manage thread, including sleep, block, channel, etc
